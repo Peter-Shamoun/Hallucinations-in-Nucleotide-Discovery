@@ -1,0 +1,7 @@
+binary classification for each file
+
+one run with the gene, binary answer
+
+one run with the gene and generated halucination.
+
+one run with the gene, hallucination, and binary classification
