@@ -1,0 +1,5 @@
+,enhancer_no_hall_acc,enhancer_no_hall_acc,methylated_no_hall_acc,methylated_no_hall_acc,overall_no_hall_acc,overall_no_hall_acc,promoter_no_hall_acc,promoter_no_hall_acc,protein_coding_no_hall_acc,protein_coding_no_hall_acc,splice_site_no_hall_acc,splice_site_no_hall_acc
+classification_model,gpt-3.5-turbo,gpt-4o-mini,gpt-3.5-turbo,gpt-4o-mini,gpt-3.5-turbo,gpt-4o-mini,gpt-3.5-turbo,gpt-4o-mini,gpt-3.5-turbo,gpt-4o-mini,gpt-3.5-turbo,gpt-4o-mini
+hallucination_model,,,,,,,,,,,,
+gpt-3.5-turbo,0.5,0.5,0.5555555555555556,0.5,0.4913232104121475,0.4989177489177489,0.49,0.5,0.40425531914893614,0.5,0.5071428571428571,0.4928571428571429
+gpt-4o-mini,0.4897959183673469,0.5,0.4416243654822335,0.5,0.4641304347826087,0.5043290043290043,0.5125628140703518,0.5,0.3723404255319149,0.5106382978723404,0.5142857142857142,0.5142857142857142

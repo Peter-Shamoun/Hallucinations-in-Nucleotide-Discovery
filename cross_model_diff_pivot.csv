@@ -1,0 +1,5 @@
+,enhancer_diff,enhancer_diff,methylated_diff,methylated_diff,overall_diff,overall_diff,promoter_diff,promoter_diff,protein_coding_diff,protein_coding_diff,splice_site_diff,splice_site_diff
+classification_model,gpt-3.5-turbo,gpt-4o-mini,gpt-3.5-turbo,gpt-4o-mini,gpt-3.5-turbo,gpt-4o-mini,gpt-3.5-turbo,gpt-4o-mini,gpt-3.5-turbo,gpt-4o-mini,gpt-3.5-turbo,gpt-4o-mini
+hallucination_model,,,,,,,,,,,,
+gpt-3.5-turbo,0.0,0.0,0.045454545454545525,0.0,-0.00976138828633405,0.04545454545454547,-0.010000000000000009,0.0,-0.08510638297872342,0.21808510638297873,0.0,0.007142857142857173
+gpt-4o-mini,-0.0357142857142857,-0.010204081632653073,-0.07614213197969544,0.0,-0.013043478260869601,0.03679653679653677,0.02010050251256279,0.0,0.021276595744680826,0.15425531914893614,0.014285714285714235,0.04999999999999993
